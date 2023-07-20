@@ -64,3 +64,15 @@
     font-size: 0.938rem;
     margin: 0.5rem 0 1.4rem;
   }
+
+  .btn {
+    padding: 10px 22px;
+    background: var(--main-color);
+    color: var(--bg-color);
+    font-weight: 400;
+    border-radius: 25px;
+  }
+  .btn:hover {
+    background: #fd052f;
+  }
+  
